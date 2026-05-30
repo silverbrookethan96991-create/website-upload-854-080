@@ -1,0 +1,22 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2016,
+  "all_page_cards": 2000,
+  "category_card_total": 2000,
+  "category_counts": {
+    "asian-choice": 200,
+    "high-score": 200,
+    "suspense-thriller": 200,
+    "romance-drama": 200,
+    "action-adventure": 200,
+    "comedy-family": 200,
+    "fantasy-animation": 200,
+    "documentary-biography": 200,
+    "series-variety": 200,
+    "classic-library": 200
+  },
+  "player_pages_ok": 2000,
+  "hmt_missing": [],
+  "zip_size_bytes": 10445514
+}
